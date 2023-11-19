@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(112, 76, 28);
+    background-color: rgb(194, 163, 24);
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  border-radius: 10%;
+}
+
+.ingredients,
+ul {
+    background-color: rgba(194, 163, 24, 0.685);
+}
+
+.good-word,
+.grandma-word {
+    text-align: center;
+    color: white;
+    background-color: rgb(97, 83, 24);
+}
